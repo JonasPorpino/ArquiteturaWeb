@@ -1,4 +1,4 @@
-// Vetor na forma de lista
+// Vetor na forma de lista 3 formas diferentes de exemplos
 
 let vetor1=[1,3,5,7];
 let vetor2=[];
